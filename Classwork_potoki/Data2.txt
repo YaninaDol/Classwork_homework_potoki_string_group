@@ -1,0 +1,8 @@
+Ivan    : 10,3
+Valera    : 2,5
+Olya   : 5,11
+Anton   : 6,7,9
+Valentyna  : 12,12
+Natasha  : 2
+rrr : 1
+aaa : 2,2
